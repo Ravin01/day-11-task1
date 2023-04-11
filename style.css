@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image1{
+    height: 400px;
+    width: 800px;
+}
+.image2{
+    height: 180px;
+    width: 400px;
+}
+.image3{
+    height: 500px;
+    width: 400px;
+}
+.image4{
+    height: 300px;
+    width: 900px;
+}
+.image5{
+    height: 300px;
+    width: 400px;
+}
